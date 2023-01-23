@@ -1,12 +1,19 @@
 # 👋 Welcome
 
+<h1>
+  <img src="https://media.giphy.com/media/JyyUwsNClJDoI/giphy.gif"/>
+</h1>
+
 ## About me
 
-
+- 😎 I'm currently learning Python, Django, PHP, JS, React.
+- 💡 Interested in
 
 ## My GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhtarahmed&show_icons=true&count_private=true&theme=jolly&text_colorc800ff)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhtarahmed&repo=muhtarahmed.github.io&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhtarahmed&repo=encrypt_pdf_file&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 

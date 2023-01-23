@@ -4,7 +4,7 @@
 
 
 
-# My GitHub Stats:
+## My GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhtarahmed&show_icons=true&count_private=true&theme=jolly&text_colorc800ff)
 

@@ -1,7 +1,7 @@
 # 👋 Welcome
 
 <div align="center">
-  <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" width="1000" height="200"/>
 </div>
 
 
@@ -24,7 +24,7 @@
 
 ## Waiting for your call
 <div align="center">
-  <img src="https://media.giphy.com/media/2tRBdHz4Wwhyw/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="500" height="300"/>
 </div>
 <!--
 **muhtarahmed/muhtarahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

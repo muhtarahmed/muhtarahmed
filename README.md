@@ -12,15 +12,15 @@
 
 ## Highlights:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhtarahmed&repo=muhtarahmed.github.io&theme=jolly&text_color=ffffff&title_color=ffffff&bg_color=8200ff&border_color=ff00d6&icon_color=ff00d6)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhtarahmed&repo=muhtarahmed.github.io&theme=jolly&text_color=ffffff&title_color=ffffff&bg_color=5700ff&border_color=ff00d6&icon_color=ff00d6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhtarahmed&repo=encrypt_pdf_file&theme=jolly&text_color=ffffff&title_color=ffffff&bg_color=8200ff&border_color=ff00d6&icon_color=ff00d6)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhtarahmed&repo=encrypt_pdf_file&theme=jolly&text_color=ffffff&title_color=ffffff&bg_color=5700ff&border_color=ff00d6&icon_color=ff00d6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=muhtarahmed&show_icons=true&count_private=true&theme=jolly&text_color=ffffff&title_color=ffffff&bg_color=8200ff&border_color=ff00d6&icon_color=ff00d6)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=muhtarahmed&show_icons=true&count_private=true&theme=jolly&text_color=ffffff&title_color=ffffff&bg_color=5700ff&border_color=ff00d6&icon_color=ff00d6)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtarahmed&theme=jolly&text_color=ffffff&title_color=ffffff&bg_color=8200ff&border_color=ff00d6&icon_color=ff00d6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtarahmed&theme=jolly&text_color=ffffff&title_color=ffffff&bg_color=5700ff&border_color=ff00d6&icon_color=ff00d6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Waiting for your call
 <div align="center">

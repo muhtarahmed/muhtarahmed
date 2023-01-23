@@ -4,7 +4,7 @@
 
 # My GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhtarahmed&show_icons=true&count_private=true&text_color#c800ff&theme=jolly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhtarahmed&show_icons=true&count_private=true&theme=jolly)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhtarahmed&repo=encrypt_pdf_file)](https://github.com/anuraghazra/github-readme-stats)
 

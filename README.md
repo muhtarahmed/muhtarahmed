@@ -1,7 +1,7 @@
 # Welcome 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" width="1000" height="200"/>
+  <img src=""/>
 </div>
 
 
@@ -24,10 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtarahmed&theme=buefy&border_color=ff00d6&bg_color=E6E6FA)](https://github.com/anuraghazra/github-readme-stats)
 
-## Waiting for your call
-<div align="center">
-  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="500" height="300"/>
-</div>
 <!--
 **muhtarahmed/muhtarahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

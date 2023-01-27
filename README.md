@@ -1,10 +1,4 @@
 # Welcome 👋
-
-<div align="center">
-  <img src=""/>
-</div>
-
-
 ## About me 🔥
 
 ### I'm currently learning:
